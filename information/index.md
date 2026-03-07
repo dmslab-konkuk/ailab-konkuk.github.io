@@ -25,7 +25,7 @@ title: Information
 
 ## Office
 ```markdown
-* DMS Lab: New Engineering Building 1207 (신공학관 1207호)
+* AI Lab: New Engineering Building 1207-3 (신공학관 1207-3호)
 * Professor's Office: Engineering Building C 385 (공학관 C동 385호)
 ```
 ## Contacts
