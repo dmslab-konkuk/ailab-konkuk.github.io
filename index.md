@@ -5,11 +5,7 @@ subtitle: Agent Intelligent Laboratory, Konkuk University
 cover-img: /assets/img/server.jpeg
 ---
 
-<!-- Hero Keyword Banner -->
-<div style="background: linear-gradient(135deg, #0d1b2a 0%, #1b2a4a 50%, #162447 100%); border-radius: 12px; padding: 40px 30px; margin: 20px 0 40px 0; text-align: center; color: #fff; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
-  <h2 style="margin: 0 0 12px 0; font-size: 2em; font-weight: 700; letter-spacing: 1px; color: #fff;">🤖 AI Agents &nbsp;·&nbsp; LLM &nbsp;·&nbsp; Multi-Agent Systems</h2>
-  <p style="margin: 0; font-size: 1.15em; color: #a8c0e0; font-weight: 400;">Autonomous Reasoning &nbsp;│&nbsp; Agentic Collaboration &nbsp;│&nbsp; Intelligent Cloud Platforms</p>
-</div>
+**AI Agents · LLM · Multi-Agent Systems · Autonomous Reasoning · Agentic Collaboration · Intelligent Cloud Platforms**
 
 ## About AI Lab
 
