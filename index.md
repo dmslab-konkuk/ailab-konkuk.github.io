@@ -2,7 +2,7 @@
 layout: page
 title: Agent Intelligent Laboratory
 subtitle: Agent Intelligent Laboratory, Konkuk University
-cover-img: /assets/img/server.jpeg
+cover-img: /assets/img/ai-brain.jpg
 ---
 
 ## Introduction to AI(Agent Intelligent) Research Group | [한국어](./index-kr)

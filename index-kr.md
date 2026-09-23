@@ -2,7 +2,7 @@
 layout: page
 title: Agent Intelligent Laboratory
 subtitle: 건국대학교 AI(Agent Intelligent) 연구실
-cover-img: /assets/img/server.jpeg
+cover-img: /assets/img/ai-brain.jpg
 ---
 
 ## AI(Agent Intelligent) 연구실 소개 | [English](../)
