@@ -1,23 +1,44 @@
-<!-- wp:heading -->
-<h2>Lab Introduction</h2>
-<!-- /wp:heading -->
+---
+layout: page
+title: Agent Intelligent Laboratory
+subtitle: 건국대학교 AI(Agent Intelligent) 연구실
+cover-img: /assets/img/server.jpeg
+---
 
-<!-- wp:paragraph -->
-<p>IoT기기에서부터 클라우드 서비스까지의 전 구간에 있어서 분산 시스템 기술과 인공 지능 기술을 연구개발하고 있다.</p>
-<!-- /wp:paragraph -->
+## AI(Agent Intelligent) 연구실 소개 | [English](../)
 
-<!-- wp:paragraph -->
-<p><strong>분산 시스템 기술</strong>&nbsp;: 10여년 동안 연구개발해 온 Cloud Platform Technology을 활용하여 4차 산업혁명 과 5G 기술의 핵심인 “Intelligent Fog Computing(FC)“ 기술 개발에 집중하고 있다. 특히, “Intelligent Assistant for Silver”와 “Digital Twin System for Urban Air Mobility” 응용 분야에 적합한 지능형 IoT 게이트웨이 개발과 안전하고 안정적이며 확장가능한 포그 컴퓨팅 서버 시스템 자동구축 및 지능적 운영관리 기술을 연구하고 있다.</p>
-<!-- /wp:paragraph -->
+AI(에이전트 지능) 연구실은 차세대 인공지능 기술을 기반으로 고도화된 자율형 에이전트 및 스마트 모빌리티 시스템과 관련된 연구 개발에 집중하고 있습니다. 우리는 기초 AI 연구와 응용 소프트웨어 아키텍처를 융합하여 4차 산업혁명과 미래 모빌리티 생태계의 핵심인 "지능형 에이전트 프레임워크(Intelligent Agent Frameworks)"와 "소프트웨어 중심 자동차(SDV)를 위한 AI 융합 기술" 개발에 주력하고 있습니다. 특히 복잡한 현실 환경에서 자율적으로 인지하고 추론하며 행동할 수 있는 견고하고 확장 가능한 고도의 지능형 시스템 설계를 목표로 합니다.
 
-<!-- wp:paragraph -->
-<p><strong>인공 지능 기술</strong>&nbsp;: 알파고의 핵심 기술인 Deep Learning과 Deep Reinforcement Learning기술을 Distributed Multi-Agent System의 형태로 발전시키는 연구를 진행하고 있다. 특히 Natural Language Processing분야인 Question Answering, Question Generation, Auto Knowledge Construction문제들과 Distributed Multi-Agent Cooperative and Competitive System 분야, Real-time Multi-Object Tracking System분야 및 Intelligent Trading System분야 관련 기술을 연구하고 있다.</p>
-<!-- /wp:paragraph -->
+### Intelligent Agent Framework Technology
 
-<!-- wp:heading {"level":4} -->
-<h4 id="핵심-연구-내용">핵심 연구 내용</h4>
-<!-- /wp:heading -->
+최신 AI 모델을 활용하여 복잡한 분산 시스템의 자율적인 두뇌 역할을 하는 "지능형 에이전트 프레임워크" 개발에 집중하고 있습니다. 특히 지속 학습, 다중 에이전트 협력 및 분산형 의사 결정을 촉진하는 확장 가능한 에이전트 아키텍처를 연구 중입니다. 또한 대형언어모델(LLM)과 강화학습 모델이 실제 작업 환경에 원활하게 통합될 수 있도록 하는 강력한 프레임워크를 연구 및 개발합니다. 이 핵심 기술은 에이전트가 다양한 환경에 동적으로 적응하고 지능적인 운영을 관리하며, 여러 도메인에 걸쳐 고도로 개인화된 협력 서비스를 제공할 수 있도록 하는 기반 플랫폼 역할을 합니다.
 
-<!-- wp:list -->
-<ul><li>지능형 포그 컴퓨팅 플랫폼 (IaaS, PaaS, SaaS, FaaS) 자동구축 및 지능적 운영 관리 기술</li><li>Offloading/Caching 기술 기반의 Hierarchical Distributed Intelligent Fog and Cloud Cooperative Service Platform 기술</li><li>Multiple Attention 기반 Multi-Agent Deep Reinforcement Learning 기술</li><li>Distributed Knowledge / Deep Learning 기반의 Cooperative Natural Language Conversation 기술</li><li>Stochastic Reward Net과 Discrete Event Simulation기반 분산 시스템 품질 평가 기술</li><li>도메인 기능 및 품질 요구사항에 맞는 효율적이고 재사용 가능한 SW Architecture 설계 기술</li></ul>
-<!-- /wp:list -->
+### AI Convergence Technology for SDV (Software-Defined Vehicles)
+
+차량 하드웨어가 소프트웨어에 의해 완전히 추상화되고 제어되는 SDV 패러다임에 특화된 AI 융합 기술과 관련하여 다양한 연구가 진행 중입니다. 1) 차량 내 실시간 AI 처리를 위한 지능형 엣지-클라우드 협력 컴퓨팅 아키텍처, 2) 심층 강화 학습(DRL) 기반의 차량 동역학 및 에너지 효율 최적화, 3) AI 기반 예측 유지 보수 및 지능형 OTA(Over-The-Air) 업데이트 관리, 4) 자율 주행 안전을 위한 멀티모달 상황 감지 및 맥락 인식, 5) 트랜스포머 기반 LLM을 활용한 맞춤형 인캐빈(In-cabin) 지능형 대화 에이전트 개발, 6) 동적 모빌리티 환경을 위한 신뢰성 높고 재사용 가능한 소프트웨어 아키텍처 확보 연구를 수행하고 있습니다.
+
+### 핵심 연구 분야 (Core Research Focus)
+
+**지능형 에이전트 프레임워크 (Intelligent Agent Framework)**
+
+- **LLM 및 다중 에이전트 시스템:** 대형언어모델(LLM) 및 다중 에이전트 심층 강화학습 기반의 지능형 에이전트 프레임워크 설계
+- **대화형 및 인지형 에이전트:** 셀프 어텐션(Self-Attention) 및 지식 그래프 모델 기반의 오픈 도메인 대화형 AI 및 지능형 어시스턴트
+- **멀티모달 인지 기술:** 자율형 에이전트의 상황 인지를 위한 멀티모달 맥락 인식(Context Recognition) 및 추론 모델
+- **분산형 AI 처리 기술:** 다중 에이전트 환경을 위한 분산형 의사결정 및 엣지-클라우드 협력 AI 처리 아키텍처
+- **AI 기반 SDLC 및 지능형 코딩 에이전트:** 코딩 에이전트를 활용하여 요구사항 도출부터 재사용 및 변형이 용이한 SW 아키텍처 설계, 루프 엔지니어링, 그리고 안정성·성능·보안을 고려한 스캐폴딩 기반의 고도화된 코드 생성 기술을 연구합니다.
+
+**SDV를 위한 AI 융합 기술 (AI Convergence Technology for SDV)**
+
+- **SDV 아키텍처 및 수명 주기 관리:** SDV에 적합한 효율적·재사용 가능한 SW 아키텍처 설계 및 AI 기반 지능형 OTA(Over-The-Air) 수명 주기 관리
+- **차량 제어 및 예측 유지보수:** 딥러닝을 활용한 실시간 차량 동역학 최적화 및 예측 유지보수 모델
+- **디지털 트윈 및 시뮬레이션:** 스마트 차량을 위한 디지털 트윈 동기화 및 실시간 시뮬레이션 검증 기술
+- **모빌리티 엣지-클라우드 컴퓨팅:** SDV 도메인 기능에 특화된 리소스 오프로딩 및 엣지-클라우드 협력 컴퓨팅 아키텍처
+
+---
+
+## Contact
+
+```
+사무실: 건국대학교 신공학관 1207-3호
+이메일: dkmin at konkuk.ac.kr (민덕기 교수)
+```

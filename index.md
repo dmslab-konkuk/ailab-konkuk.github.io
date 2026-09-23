@@ -5,40 +5,34 @@ subtitle: Agent Intelligent Laboratory, Konkuk University
 cover-img: /assets/img/server.jpeg
 ---
 
-**AI Agents · LLM · Multi-Agent Systems · Autonomous Reasoning · Agentic Collaboration · Intelligent Cloud Platforms**
+## Introduction to AI(Agent Intelligent) Research Group | [한국어](./index-kr)
 
-## About AI Lab
+The AI (Agent Intelligent) research group is currently concentrating on research and development related to advanced Autonomous Agents and Smart Mobility Systems based on next-generation artificial intelligence technologies. By integrating foundational AI research with applied software architectures, we are focusing on the development of "Intelligent Agent Frameworks" and "AI Convergence Technology for Software-Defined Vehicles (SDV)," which are pivotal to the future mobility ecosystem and the 4th Industrial Revolution. In particular, we aim to design robust, scalable, and highly intelligent systems that can perceive, reason, and act autonomously in complex real-world environments.
 
-The **Agent Intelligent Laboratory (AI Lab)** at Konkuk University focuses on cutting-edge research in **AI Agent systems** — autonomous software entities that perceive, reason, plan, and act to accomplish complex goals. Our mission is to design, build, and deploy intelligent agents that collaborate with humans and other agents to solve real-world problems across diverse domains.
+### Intelligent Agent Framework Technology
 
-### AI Agent & Large Language Model (LLM) Research
+By utilizing advanced AI models, we are currently focusing on the development of "Intelligent Agent Frameworks" that serve as the autonomous brain for complex distributed systems. In particular, we are researching scalable agent architectures that facilitate continuous learning, multi-agent cooperation, and decentralized decision-making. We also research and develop robust frameworks that allow Large Language Models (LLMs) and reinforcement learning models to be seamlessly integrated into real-world tasks. This core technology acts as a foundational platform, enabling agents to dynamically adapt to varying environments, manage intelligent operations, and provide highly personalized and cooperative services.
 
-We investigate the design and orchestration of **LLM-powered autonomous agents** capable of multi-step reasoning, tool use, and self-reflection. Our research spans:
-- **Agentic AI Architectures** — ReAct, Plan-and-Execute, Reflection, and Tree-of-Thought agent frameworks
-- **Multi-Agent Collaboration** — cooperative and competitive multi-agent systems for complex task decomposition and distributed problem-solving
-- **Retrieval-Augmented Generation (RAG)** — grounding LLM agents with external knowledge bases for factual and domain-specific responses
-- **Tool-Augmented Agents** — enabling agents to interact with APIs, databases, code interpreters, and external services autonomously
-- **Agent Memory & Planning** — long-term memory, hierarchical planning, and experience replay for persistent and adaptive agent behavior
+### AI Convergence Technology for SDV (Software-Defined Vehicles)
 
-### Intelligent Systems & Distributed Platforms
+Various studies are in progress in relation to AI convergence technology specifically designed for the SDV paradigm, where vehicle hardware is entirely abstracted and controlled by software. 1) Intelligent edge-cloud cooperative computing architecture for real-time AI processing in vehicles, 2) Optimization of vehicle dynamics and energy efficiency based on Deep Reinforcement Learning (DRL), 3) AI-driven predictive maintenance and intelligent Over-The-Air (OTA) update management, 4) Multimodal situation detection and context recognition for autonomous driving safety, 5) Development of customized in-cabin intelligent conversational agents using Transformer-based LLMs, and 6) Research on securing reliable and reusable software architectures for dynamic mobility environments.
 
-Building on our strong foundation in distributed systems, we develop the **infrastructure** that powers scalable AI agent deployments:
-- **Cloud-Native Agent Platforms** — Kubernetes-based orchestration for deploying and scaling multi-agent services
-- **Edge-Cloud Cooperative AI** — distributed agent inference across fog, edge, and cloud tiers for latency-sensitive applications
-- **Digital Twin & Simulation** — agent-driven digital twin environments for Urban Air Mobility (UAM) and smart mobility systems
-- **Dependability & Performance Engineering** — stochastic modeling and evaluation of AI-powered distributed systems
+### Core Research Focus
 
-### Applied AI & Domain Intelligence
+**Intelligent Agent Framework**
 
-Our agents are applied to impactful real-world domains:
-- **Autonomous Navigation** — deep reinforcement learning-based agents for mobile robot and UAV path planning
-- **Healthcare AI Assistants** — multi-modal intelligent agents for elderly care and medical decision support
-- **Conversational AI** — knowledge-grounded dialog agents and open-domain QA systems powered by LLMs
-- **Computer Vision Intelligence** — human pose estimation, activity recognition, and visual understanding agents
+- **LLM & Multi-Agent Systems:** Intelligent Agent Framework design based on Large Language Models (LLM) and Multi-Agent Deep Reinforcement Learning.
+- **Conversational & Cognitive Agents:** Open-Domain Conversational AI and Intelligent Assistants based on Self-Attention and Knowledge Graph models.
+- **Multimodal Perception:** Multimodal Context Recognition and reasoning models for autonomous agents' situational awareness.
+- **Distributed AI Processing:** Distributed decision-making and Edge-Cloud cooperative AI processing architectures for multi-agent environments.
+- **AI-Driven SDLC & Intelligent Coding Agents:** Research on using Coding Agents across the software lifecycle, focusing on requirements elicitation, highly reusable SW architecture design, loop engineering, and robust scaffolding for secure, high-performance code generation.
 
-### Core Research Keywords
+**AI Convergence Technology for SDV**
 
-`AI Agent` · `LLM` · `Multi-Agent System` · `Agentic AI` · `RAG` · `Tool-Use Agent` · `Deep Reinforcement Learning` · `Autonomous Navigation` · `Digital Twin` · `Cloud-Native Platform` · `Conversational AI` · `Computer Vision`
+- **SDV Architecture & Lifecycle Management:** Efficient, reusable SW Architecture design and AI-driven intelligent Over-The-Air (OTA) lifecycle management for SDVs.
+- **Vehicle Dynamics & Maintenance:** Real-time vehicle dynamics optimization and predictive maintenance models using deep learning.
+- **Digital Twin & Simulation:** Digital Twin synchronization and real-time simulation verification technologies for smart vehicles.
+- **Edge-Cloud Computing for Mobility:** Resource offloading and Edge-Cloud cooperative computing architectures tailored for SDV domain functions.
 
 ---
 
