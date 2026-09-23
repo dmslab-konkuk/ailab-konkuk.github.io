@@ -1,43 +1,41 @@
 ---
 layout: page
-title: Research
+title: Recruit
 ---
 
-## "Agentic AI 기술은 미래 시스템의 패러다임을 선도합니다." | [English](/recruit/)
+## "지능형 에이전트 기술은 미래 모빌리티와 복합 시스템의 패러다임을 선도합니다." | [English](../)
 
-건국대학교 KADA는 4차 산업혁명 시대의 핵심인 차세대 에어 모빌리티(Air Mobility)와 지능형 무인 이동체 분야를 선도하는 대학중점연구소를 포함한 다수의 국책과제를 수행하는 연구소입니다. 
-본 채용은 KADA 연구소의 참여 연구그룹인 건국대학교 컴퓨터공학부의 DMS Lab(지도교수: 민덕기)에서 진행하며, 저희는 KADA의 비전을 AI/Cloud 기술로 실현하는 역할을 담당하고 있습니다. DMS Lab은 Agentic AI 기술과 Cloud 기반의 디지털 트윈 플랫폼 기술을 연구하고 있고, 복잡한 환경에서 다수의 무인기가 스스로 판단하고 인간과 유기적으로 협력하는 유무인 복합 시스템과 혼자 지내는 실버들의 벗과 헬스케어를 담당하는 Care Assistant 시스템 개발을 위한 차세대 AI 기술을 개발하는 국책연구과제 및 Bio-Generative AI 기술을 이용한 신약개발 연구를 수행하고 있습니다.
-미래 Agentic AI 기술을 함께 개척해나갈, 세계 최고 수준의 연구에 도전할 열정적인 연구교수 또는 박사후연구원을 모집합니다.
+건국대학교 대학원 인공지능학과의 **Agent Intelligent Lab (AI Lab)** (지도교수: 민덕기)은 차세대 인공지능 기술을 기반으로 고도화된 자율 에이전트(Autonomous Agent)와 스마트 모빌리티 시스템을 연구합니다. 기초 AI 연구와 응용 소프트웨어 아키텍처를 융합하여 "지능형 에이전트 프레임워크(Intelligent Agent Framework)"와 "소프트웨어 정의 차량(SDV)을 위한 AI 융합 기술" 개발에 집중하고 있습니다.
+
+미래 Agentic AI 및 SDV 기술을 함께 개척해나갈, 세계 최고 수준의 연구에 도전할 열정적인 연구교수 및 박사후연구원을 모집합니다.
 
 ### 1. 모집 분야
-- 에이전틱 AI (Agentic AI) 기술 및 다양한 적용 분야
-  1. Multi-Agent Distributed Collaborative Agentic AI Framework
-  2. Multi-Model Context Perception and Navigation
-  3. Situation Understanding and Reasoning and Decision Making
-  4. Knowledge Construction, Inference and GraphRAG
-  5. Intelligent UAM(Urban Air Mobility) Digital Twin 
-  6. Intelligent Car Assistant Robot and Environment
-  7. Multi-Agent MUM-T(Manned-Unmanned Teaming) based on Agentic AI
-  8. Autonomous MLOps on Hybrid Cloud Platform with Agentic AIOps Tech.
-  9. Automated Disease-Drug Linkage and Optimization Using Bio-Generative AI
-  10. Various Applications of Deep Learning and Deep Reinforcement Learning
+- **LLM & Multi-Agent Systems:** 대규모 언어 모델(LLM)과 다중 에이전트 심층 강화학습 기반의 지능형 에이전트 프레임워크 설계
+- **Conversational & Cognitive Agents:** Self-Attention 및 지식 그래프(Knowledge Graph) 모델 기반의 오픈 도메인 대화형 AI와 지능형 어시스턴트
+- **Multimodal Perception:** 자율 에이전트의 상황 인지를 위한 멀티모달 상황 인식 및 추론 모델
+- **Distributed AI Processing:** 다중 에이전트 환경을 위한 분산 의사결정 및 엣지-클라우드 협력 AI 처리 아키텍처
+- **AI-Driven SDLC & Intelligent Coding Agents:** 소프트웨어 생명주기 전반에 걸친 코딩 에이전트 활용 연구 (요구사항 도출, 높은 재사용성의 SW 아키텍처 설계, 루프 엔지니어링, 안전하고 고성능인 코드 생성을 위한 견고한 스캐폴딩)
+- **SDV Architecture & Lifecycle Management:** SDV를 위한 효율적이고 재사용 가능한 SW 아키텍처 설계 및 AI 기반 지능형 OTA(Over-The-Air) 생명주기 관리
+- **Vehicle Dynamics & Maintenance:** 딥러닝을 활용한 실시간 차량 동역학 최적화 및 예지 정비(Predictive Maintenance) 모델
+- **Digital Twin & Simulation:** 스마트 차량을 위한 디지털 트윈 동기화 및 실시간 시뮬레이션 검증 기술
+- **Edge-Cloud Computing for Mobility:** SDV 도메인 기능에 최적화된 리소스 오프로딩 및 엣지-클라우드 협력 컴퓨팅 아키텍처
 
 ### 2. 주요 업무
-1. 상기 주제에서 SCIE급 국제 저널 논문을 주도적으로, 공동협력으로 게재
-2. 시뮬레이션과 현장 실험을 연계한 연구 프로토타입 설계 및 구현
-3. 대학원생 지도 및 해외 공동연구 수행
-4. 경쟁력 있는 연구비 제안서 작성
+- 상기 주제에서 SCI급 국제 저널 논문을 주도적으로, 공동협력으로 게재
+- 시뮬레이션과 실제 에이전트 환경을 연계한 연구 프로토타입 설계 및 구현
+- 대학원생 지도 및 해외 공동연구 수행
+- 경쟁력 있는 연구비 제안서 작성
 
 ### 3. 지원 자격
 - **필수 요건**
-   - 컴퓨터 공학 또는 관련 분야 박사 학위 소지자 (2025년 8월 임용 전 취득 예정자 포함)
+   - 컴퓨터공학, 인공지능 또는 관련 분야 박사 학위 소지자 (학위 취득 예정자 포함)
    - AI/머신러닝 분야에 대한 깊이 있는 연구 경험 및 AI 프레임워크 활용 능력
 
 - **우대 요건**
-   - 에이전틱 AI, 대규모 언어 모델(LLM), 딥러닝/강화학습(RL) 관련 연구경험자
-   - 유무인 협력, 로보틱스, 자율주행, 디지털 트윈, 지능로봇 관련 프로젝트 유경험자
+   - Agentic AI, 대규모 언어 모델(LLM), 딥러닝/강화학습(RL) 관련 연구 경험자
+   - 소프트웨어 정의 차량(SDV), 자율주행, 디지털 트윈, 지능형 엣지-클라우드 프로젝트 유경험자
    - AI 분야 최상위 학회 논문 게재 실적 또는 우수 연구 실적 보유자
-   - 분산/병렬 컴퓨팅, 클라우드 네이티브 환경 개발 경험자
+   - 분산/병렬 컴퓨팅 및 최신 소프트웨어 아키텍처 경험자
 
 ### 4. 근무 조건
 - 최초 계약 2년, 성과 및 예산에 따라 연장 가능
@@ -45,19 +43,15 @@ title: Research
 - 교내 전용 사무실, GPU 서버 지원, 국내외 유수 학회 참가비 지원
 
 ### 5. 제출 서류(단일 PDF)
-1. 연구 적합성을 설명하는 자기소개서
-2. 전체 연구 실적/경력/능력이 포함된 이력서(CV)
-3. 향후 2년 연구 계획서(2쪽 이내)
-4. 추천인 2인의 연락처
+- 연구 적합성을 설명하는 자기소개서
+- 전체 연구 실적/경력/능력이 포함된 이력서(CV)
+- 향후 2년 연구 계획서(2쪽 이내)
+- 추천인 2인의 연락처
 
 ### 6. 채용 절차 및 일정
-- 1차 접수 마감: 2025년 7월 25일 
-- 서류 합격 통보: 2025년 7월 28일 저녁
-- 오프라인 면접: 2025년 7월 29일부터 8월 1일까지
-- 면접 합격 통보: 2025년 8월 3일
-- 근무 시작 예정일: 2025년 8월 4일 이후 가능한 빠른 시점
+- **상시 모집으로 접수받고 있습니다.**
 
 ### 7. 접수 방법 및 문의
 - 단일 PDF 파일을 (dkmin@konkuk.ac.kr)로 제출
-- 이메일 제목: \[Agentic AI for KU Recruitment] 성명, 소속
-- 문의: 건국대학교 컴퓨터공학부 민덕기 교수 (dkmin@konkuk.ac.kr)
+- 이메일 제목: **\[AI Lab Recruitment]** 성명, 소속
+- 문의: 민덕기 교수 (dkmin@konkuk.ac.kr)
